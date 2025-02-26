@@ -1,0 +1,12 @@
+[2025-02-17 23:50:11] Manual import initiated via AJAX for post type: offering
+[2025-02-17 23:50:11] No existing post type found. Creating new post type: offering
+[2025-02-17 23:50:11] Import failed: API URL or API Key is missing.
+[2025-02-25 11:49:03] Settings updated.
+[2025-02-25 11:49:10] Manual import initiated via AJAX for post type: offering
+[2025-02-25 11:49:10] Updating existing post type: offering
+[2025-02-25 11:49:10] Starting offerings import...
+[2025-02-25 11:49:11] Error: Default language  not found in API languages
+[2025-02-25 11:53:03] Manual import initiated via AJAX for post type: offering
+[2025-02-25 11:53:03] Updating existing post type: offering
+[2025-02-25 11:53:03] Starting offerings import...
+[2025-02-25 11:53:13] Import completed successfully. Imported offerings by language: en: 12. Total: 12
